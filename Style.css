@@ -26,3 +26,24 @@ a:hover, a:active{
 	height: auto;
 	margin: 2% 0;
 }
+.mainheader nav{
+	background-color: #666;
+	height: 40px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.mainheader nav ul{
+	list-style: none;
+	margin: 0 auto;
+}
+.mainheader nav ul li{
+	float: left;
+	display: inline;
+}
+.mainheader nav a:link, .mainheader nav a:visited{
+	color: #FFF;
+	display: inline-block;
+	padding: 10px 25px;
+	/*come back here to assign height*/
+}
