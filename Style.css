@@ -6,6 +6,23 @@ body {
 	line-height: 1.5;
 	text-align: left;
 }
-.body{
+a{
+	text-decoration: none;
+}
+a:link, a:visited{
 
+}
+a:hover, a:active{
+
+}
+
+.body{
+	margin: 0 auto ;
+	width:70%;
+	clear: both;
+}
+.mainheader img{
+	width:30%;
+	height: auto;
+	margin: 2% 0;
 }
