@@ -183,8 +183,20 @@ a:hover, a:active{
 	margin-top: 3% ;
 	}
 /* Work on top-sidebar middle-sidebar and bottom-sidebar.*/
-
-
-
+	.top-sidebar {
+	width: 94%;
+	margin:2% 0 2% 0%;
+	padding: 2% 3%;
+	}
+	.middle-sidebar{
+	width: 94%;
+	margin:2% 0 2% 0%;
+	padding: 2% 3%;
+	}
+	.bottom-sidebar{
+	width: 94%;
+	margin:2% 0 2% 0%;
+	padding: 2% 3%;
+	}
 
 }
